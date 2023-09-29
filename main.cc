@@ -14,4 +14,5 @@ int  f(int i){
 
 void main(){
     printf("Output : %d", 12);
+    print("Done!")
 }
