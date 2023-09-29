@@ -3,15 +3,12 @@
 #include <stdio.h>
 
 int h(){
-    printf("function h6 - adding more");
-    print("more messages")
+    printf("function h");
 }
 
 int  f(int i){
-    int j = 987;
-
+    int j = 2;
     printf("%d\n", i+j);
-    print("fixed the issue")
     return (i+j);
 }
 
