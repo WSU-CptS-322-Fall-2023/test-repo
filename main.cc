@@ -6,7 +6,7 @@ int h(){
     printf("function h");
 }
 
-int  f(int i){
+int  g(int i){
     int j = 2;
     printf("%d\n", i+j);
     return (i+j);
