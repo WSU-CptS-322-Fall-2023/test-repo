@@ -7,7 +7,7 @@ int h(){
 }
 
 int  f(int i){
-    int j = 2;
+    int j = 3;
     printf("%d\n", i+j);
     return (i+j);
 }
