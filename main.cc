@@ -8,7 +8,7 @@ int h(){
 }
 
 int  g(int i){
-    int j = 880;
+    int j = 77;
     printf("%d\n", i+j);
     return (i+j);
 }
