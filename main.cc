@@ -14,6 +14,7 @@ int  g(int i){
 }
 
 void main(){
-    printf("Output : %d", 12);
+    int out = g()
+    printf("Output : %d", out);
     print("Done!")
 }
